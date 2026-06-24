@@ -21,23 +21,6 @@
 
 ---
 
-## stack
-
-**[Categoría 1]**
-
-![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
-![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
-
-**[Categoría 2]**
-
-![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
-![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
-
-**[Categoría 3]**
-
-![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
-![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
-
 ---
 
 ## proyectos destacados

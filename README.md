@@ -2,11 +2,9 @@
 
 # Hola, soy Cristela Velàsquez 
 
-**Estudiante de Desarrollo de Software  · [El Salvador]**
+**[Estudiante de Desarrollo de Software]  · [El Salvador]**
 *[me encanta darle color y aspecto visual a los proyectos]*
 
-[![[Badge 1]](https://img.shields.io/badge/[Texto]-[Color]?style=for-the-badge&logo=[logo]&logoColor=white)]()
-[![[Badge 2]](https://img.shields.io/badge/[Texto]-[Color]?style=for-the-badge&logo=[logo]&logoColor=white)]()
 [![[Tu país]](https://img.shields.io/badge/[País]-🇸🇻-[Color]?style=for-the-badge)]()
 
 </div>
